@@ -1,0 +1,50 @@
+.section {
+    /* background-color: rgb(250, 247, 216);
+    background-image: url('https://payload.cargocollective.com/1/10/345838/5197297/livia-foldes-nature2-13_2000.jpg'); */
+    /* background-image: url('https://cdn.pixabay.com/photo/2015/02/24/15/41/dog-647528_1280.jpg'); */
+    background-size: cover;
+    background-position: center;
+}
+
+
+
+
+h1 {
+    color: white;
+    font-family: bookmania, serif;
+    font-weight: 900;
+    font-style: italic;
+    font-size: 80px;
+    text-align: center;
+    line-height: 80px;
+    margin:auto;
+}
+
+h3 {
+    font-family: bookmania, serif;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+    text-align: center;
+    margin-top: -5px;
+}
+
+
+#titlePage{
+    
+    background-position: center;
+    background-image: url('http://jonpackles.com/scrappaper/huntsPointImages/outside.jpg');
+}
+
+#logo {
+    position: fixed;
+    top:20px;
+    left: 45%;
+    top:20px;
+    left:44%;
+    /* margin: 10px auto; */
+    
+    width: 180px;
+  
+    z-index: 100;
+}
